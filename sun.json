@@ -1,0 +1,382 @@
+{
+  "id": "sun-sensefulronin",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@sensefulronin Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_402e7ceb3b63",
+    "display_name": "sensefulronin",
+    "user_id": "@sensefulronin",
+    "description": "Community Archive-derived proof-of-search sun for @sensefulronin.",
+    "document_count": 16260,
+    "word_count": 305517,
+    "active_days": 1310,
+    "emissions": [
+      "Think",
+      "Don",
+      "See",
+      "Rizomaschool",
+      "Want",
+      "Cognazor"
+    ],
+    "generated_at": "2026-06-28T12:53:46.401542+00:00",
+    "color": "#f59e0b",
+    "mass": 12.63
+  },
+  "planets": [
+    {
+      "id": "planet_5af97162aa14",
+      "name": "Think",
+      "summary": "Archive cluster around think: 13629 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "time",
+        "other",
+        "good",
+        "the_wilderless"
+      ],
+      "artifacts": [
+        {
+          "id": "art_f50c50756e01",
+          "title": "Think receipt from 2024-03-18",
+          "excerpt": "@deepfates \"And the one son who had no choice but to bring them all together\"\n\nThis is Arrakis Development.",
+          "source_document_id": "1769544462215139594",
+          "timestamp": "2024-03-18T02:00:50+00:00",
+          "url": "https://x.com/sensefulronin/status/1769544462215139594",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, time, other, good."
+        },
+        {
+          "id": "art_1b0f4c2a5146",
+          "title": "Think receipt from 2023-12-14",
+          "excerpt": "gm https://t.co/klJM2Y63xR",
+          "source_document_id": "1735314429237928127",
+          "timestamp": "2023-12-14T15:02:55+00:00",
+          "url": "https://x.com/sensefulronin/status/1735314429237928127",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, time, other, good."
+        },
+        {
+          "id": "art_fbf26e77bf19",
+          "title": "Think receipt from 2024-11-06",
+          "excerpt": "@___frye Can’t even say you’re moving to canada anymore because they’re voting in a populist conservative in next year",
+          "source_document_id": "1854238825150656876",
+          "timestamp": "2024-11-06T19:06:00+00:00",
+          "url": "https://x.com/sensefulronin/status/1854238825150656876",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, time, other, good."
+        },
+        {
+          "id": "art_b9aa6bba1a44",
+          "title": "Think receipt from 2023-11-20",
+          "excerpt": "@RichDecibels Finding people who were curious about arguing for and against different perspectives played a big role.\n\nIt enabled me to be a skeptic to my skepticism, which then opened me up to non-naive hope. \n\nIt also allowed me to riff on ideas that can be propped up by others.",
+          "source_document_id": "1726678358095020396",
+          "timestamp": "2023-11-20T19:06:15+00:00",
+          "url": "https://x.com/sensefulronin/status/1726678358095020396",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, time, other, good."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_0dc5167af057",
+      "proof_score": 1,
+      "mass": 37.169,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_ffe675e5fea0",
+      "name": "Don",
+      "summary": "Archive cluster around don: 641 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "want",
+        "really",
+        "need"
+      ],
+      "artifacts": [
+        {
+          "id": "art_6cf6360cca22",
+          "title": "Don receipt from 2024-11-02",
+          "excerpt": "Got a drawing of me at @bowmansschool and omg I don’t want to leave\n\nCredit: @TomboyTesting https://t.co/TrLDCmhGTb",
+          "source_document_id": "1852733188181004333",
+          "timestamp": "2024-11-02T15:23:08+00:00",
+          "url": "https://x.com/sensefulronin/status/1852733188181004333",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, really."
+        },
+        {
+          "id": "art_8c52652f689a",
+          "title": "Don receipt from 2023-07-10",
+          "excerpt": "@VividVoid_ My most liked tweet was an ironic, dystopian-cope tweet.\n\nMy tweets that attempt to grok the way forward don't nearly do as well. \n\nBut what I realized is that there's a small group of them who like them and that's what matters more. https://t.co/eFmiNRAC7F",
+          "source_document_id": "1678457505020518414",
+          "timestamp": "2023-07-10T17:33:48+00:00",
+          "url": "https://x.com/sensefulronin/status/1678457505020518414",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, really."
+        },
+        {
+          "id": "art_e67d4b769ab0",
+          "title": "Don receipt from 2024-07-04",
+          "excerpt": "@RichDecibels What? You’re telling me that most people don’t do “check-ins” and announce their “intentions” while trying to come up with a definition for relationality? Losers.",
+          "source_document_id": "1808816502583226817",
+          "timestamp": "2024-07-04T10:53:55+00:00",
+          "url": "https://x.com/sensefulronin/status/1808816502583226817",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, really."
+        },
+        {
+          "id": "art_39184f1635d7",
+          "title": "Don receipt from 2023-08-05",
+          "excerpt": "What if most of our personal relationship conflicts boil down to thinking “I am making better sense of the past than you are” ?\n\nAnd why don’t we have more humility over our faulty human memory and recollection?",
+          "source_document_id": "1687826342061002752",
+          "timestamp": "2023-08-05T14:02:12+00:00",
+          "url": "https://x.com/sensefulronin/status/1687826342061002752",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, really."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_fe13400a245c",
+      "proof_score": 0.996,
+      "mass": 29.371,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_e03a44247a2a",
+      "name": "See",
+      "summary": "Archive cluster around see: 619 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "see",
+        "want",
+        "love",
+        "other",
+        "way"
+      ],
+      "artifacts": [
+        {
+          "id": "art_c5bd5850c813",
+          "title": "See receipt from 2023-07-09",
+          "excerpt": "I want to try something.\n\nReply and I’ll tell you how you are contributing to a Better World. \n\nAlright, let’s see who replies.",
+          "source_document_id": "1678178947677159427",
+          "timestamp": "2023-07-09T23:06:54+00:00",
+          "url": "https://x.com/sensefulronin/status/1678178947677159427",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: see, want, love, other."
+        },
+        {
+          "id": "art_995420b9b1be",
+          "title": "See receipt from 2023-02-24",
+          "excerpt": "@startingfromnix I start to draw back when I see someone  not have a slight curiosity of how I feel. Not even a “Sooo, how are you feeling?”.\n\nNot angry about it, just odd it’s not easily reciprocated.",
+          "source_document_id": "1629211534349017089",
+          "timestamp": "2023-02-24T20:07:53+00:00",
+          "url": "https://x.com/sensefulronin/status/1629211534349017089",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: see, want, love, other."
+        },
+        {
+          "id": "art_b0964aebf079",
+          "title": "See receipt from 2024-05-20",
+          "excerpt": "@_brentbaum “If you look for the vibe, you will often find it. But if you look for no vibe that is all you will ever see”\n\n-Uncle Iroh, probably",
+          "source_document_id": "1792542755664568499",
+          "timestamp": "2024-05-20T13:07:51+00:00",
+          "url": "https://x.com/sensefulronin/status/1792542755664568499",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: see, want, love, other."
+        },
+        {
+          "id": "art_2d1d4676f77a",
+          "title": "See receipt from 2024-02-08",
+          "excerpt": "Which I'm on board with. There are wisdom in traditions and I want to see people respect them while practising with their own spin that makes sense to them and helps them thrive.\nWe bundled in search of the New Story, un-bundled to individuate, but there needs to be re-bundling.",
+          "source_document_id": "1755625705172349188",
+          "timestamp": "2024-02-08T16:12:40+00:00",
+          "url": "https://x.com/sensefulronin/status/1755625705172349188",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: see, want, love, other."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_ccf71bcea431",
+      "proof_score": 0.993,
+      "mass": 29.302,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_f18f68306f26",
+      "name": "Rizomaschool",
+      "summary": "Archive cluster around rizomaschool: 608 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "rizomaschool",
+        "cognazor",
+        "dogeatcrow",
+        "tornadonate",
+        "gregory_landua"
+      ],
+      "artifacts": [
+        {
+          "id": "art_268d2c639c0b",
+          "title": "Rizomaschool receipt from 2022-05-02",
+          "excerpt": "@ESpacewalk @gabehudson @RizomaSchool @JakeOrthwein @TheAnnaGat I’ve always had this impression of Vonnegut that he was really bright, but kind of cranky.\n\nThat impression has been shattered.",
+          "source_document_id": "1521188300714823680",
+          "timestamp": "2022-05-02T18:02:07+00:00",
+          "url": "https://x.com/sensefulronin/status/1521188300714823680",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: rizomaschool, cognazor, dogeatcrow, tornadonate."
+        },
+        {
+          "id": "art_aa4b9123115e",
+          "title": "Rizomaschool receipt from 2021-11-04",
+          "excerpt": "@RizomaSchool This pic says it all: https://t.co/Rry6jkagfQ",
+          "source_document_id": "1456215539320246272",
+          "timestamp": "2021-11-04T11:03:34+00:00",
+          "url": "https://x.com/sensefulronin/status/1456215539320246272",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: rizomaschool, cognazor, dogeatcrow, tornadonate."
+        },
+        {
+          "id": "art_a5ff1c8add6f",
+          "title": "Rizomaschool receipt from 2021-11-18",
+          "excerpt": "@Joe_Lightfoot_ Under Permaculture, Localism, Bioregonalism, definitely would add the Doomer Optimism podcast, an environmental spin off of both/and.\n\n@RizomaSchool welcome to the weird club!",
+          "source_document_id": "1461460200725041160",
+          "timestamp": "2021-11-18T22:23:59+00:00",
+          "url": "https://x.com/sensefulronin/status/1461460200725041160",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: rizomaschool, cognazor, dogeatcrow, tornadonate."
+        },
+        {
+          "id": "art_9c1d7ec69f75",
+          "title": "Rizomaschool receipt from 2021-11-27",
+          "excerpt": "@cognazor @RizomaSchool did i do it right? https://t.co/mMLHWjF2qi",
+          "source_document_id": "1464385641165295622",
+          "timestamp": "2021-11-27T00:08:38+00:00",
+          "url": "https://x.com/sensefulronin/status/1464385641165295622",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: rizomaschool, cognazor, dogeatcrow, tornadonate."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_97d3634f4319",
+      "proof_score": 0.991,
+      "mass": 28.05,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_4255235d8a65",
+      "name": "Want",
+      "summary": "Archive cluster around want: 403 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "want",
+        "know",
+        "really",
+        "feel",
+        "way"
+      ],
+      "artifacts": [
+        {
+          "id": "art_1e0856a63f24",
+          "title": "Want receipt from 2024-06-25",
+          "excerpt": "@sun_girlxo Orwell feared that there would be cameras on us, but he should have feared that people want to have cameras around",
+          "source_document_id": "1805678315237163160",
+          "timestamp": "2024-06-25T19:03:52+00:00",
+          "url": "https://x.com/sensefulronin/status/1805678315237163160",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, know, really, feel."
+        },
+        {
+          "id": "art_540db6e1062e",
+          "title": "Want receipt from 2023-03-15",
+          "excerpt": "@aspiringpeasant And if you want a fitness example, the record for the sandbag lift test is held by a woman and women kill it. Not every physical feat is about bigger muscle density. Lateral movement is so important.",
+          "source_document_id": "1636067211562434560",
+          "timestamp": "2023-03-15T18:09:54+00:00",
+          "url": "https://x.com/sensefulronin/status/1636067211562434560",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, know, really, feel."
+        },
+        {
+          "id": "art_3df1eba25272",
+          "title": "Want receipt from 2023-12-06",
+          "excerpt": "Presenting:\n\nTHIS CALENDAR ON TWITTER\n\nA scalable, searchable event database / calendar to help you keep track of events from tpot/ingroup that you want to go to.\n\nLink: https://t.co/g7Xjr0rshw\n\nLet's go over the features: https://t.co/UaDTQ4Il8c",
+          "source_document_id": "1732525274330243385",
+          "timestamp": "2023-12-06T22:19:48+00:00",
+          "url": "https://x.com/sensefulronin/status/1732525274330243385",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, know, really, feel."
+        },
+        {
+          "id": "art_c9c558352481",
+          "title": "Want receipt from 2023-03-01",
+          "excerpt": "@Aella_Girl Because people are seeing that there is moral decay and an erosion of meaning within all of the free living and individualism. It's more complex than we lost religion and people want it back. But people want order in an increasingly uncertain world.",
+          "source_document_id": "1630923614747865088",
+          "timestamp": "2023-03-01T13:31:05+00:00",
+          "url": "https://x.com/sensefulronin/status/1630923614747865088",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, know, really, feel."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_d04ea0e6df58",
+      "proof_score": 0.95,
+      "mass": 27.996,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_941a61c66c5b",
+      "name": "Cognazor",
+      "summary": "Archive cluster around cognazor: 360 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "cognazor",
+        "jdj_writes",
+        "other",
+        "now",
+        "going"
+      ],
+      "artifacts": [
+        {
+          "id": "art_57b78379e901",
+          "title": "Cognazor receipt from 2022-02-20",
+          "excerpt": "@cognazor Here’s how I didn’t successfully deconstruct modernity and started a spiritual business: \n🧵",
+          "source_document_id": "1495394668078579714",
+          "timestamp": "2022-02-20T13:47:26+00:00",
+          "url": "https://x.com/sensefulronin/status/1495394668078579714",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: cognazor, jdj_writes, other, now."
+        },
+        {
+          "id": "art_c10b35404302",
+          "title": "Cognazor receipt from 2024-02-09",
+          "excerpt": "@RichDecibels Had a similar insight talking with @cognazor :\nhttps://t.co/ngPPp8eq5C",
+          "source_document_id": "1756012754962411637",
+          "timestamp": "2024-02-09T17:50:40+00:00",
+          "url": "https://x.com/sensefulronin/status/1756012754962411637",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: cognazor, jdj_writes, other, now."
+        },
+        {
+          "id": "art_75e816d05625",
+          "title": "Cognazor receipt from 2022-03-16",
+          "excerpt": "@oloal Yes. There seems to be a noticeable pattern of follow the script -&gt; get burnt out -&gt; engage in mind stuff (whether it’s psychedelics, social dynamics, metarationality) -&gt; do something practical in a “non-doing” way trajectory\n\n@cognazor",
+          "source_document_id": "1504071888271724548",
+          "timestamp": "2022-03-16T12:27:37+00:00",
+          "url": "https://x.com/sensefulronin/status/1504071888271724548",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: cognazor, jdj_writes, other, now."
+        },
+        {
+          "id": "art_4a4a02aaf4e9",
+          "title": "Cognazor receipt from 2023-01-15",
+          "excerpt": "@__drewface People that I already have or open to spending hours with:\n@NakadeRyan @stephlepp @ESpacewalk @cognazor @gnomicperfect @EyalShay2  @TurquoiseSound @speakerjohnash @Joe_Lightfoot_ @JustJamieJoyce @waynermind @puheenix @jdj_writes @vlct0rs_tw1tter @TheNeuroElf @CaptainFutur3",
+          "source_document_id": "1614414507253563393",
+          "timestamp": "2023-01-15T00:09:47+00:00",
+          "url": "https://x.com/sensefulronin/status/1614414507253563393",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: cognazor, jdj_writes, other, now."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_72efc15fc260",
+      "proof_score": 0.939,
+      "mass": 26.607,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
